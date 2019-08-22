@@ -1,5 +1,5 @@
 # Domingo Estação Hack - Facebook
-Domingo foi um dia de muitos códigos em HTML, CSS e JS.
+Domingo foi um dia de muitos códigos em HTML, CSS e JS com o professor Roger
 
 # Sites legais:
 - https://duckduckgo.com/
