@@ -7,4 +7,4 @@ http://hackertyper.com/
 http://pudim.com.br/
 https://www.kaggle.com/
 
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="40" height="40" />
+![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
