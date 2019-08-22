@@ -7,4 +7,4 @@ http://hackertyper.com/
 http://pudim.com.br/
 https://www.kaggle.com/
 
-<img src="https://www.reddit.com/r/CatGifs/comments/48sql9/hacker_cat_at_it_again_taking_over_the_webs/" width="40" height="40" />
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="40" height="40" />
