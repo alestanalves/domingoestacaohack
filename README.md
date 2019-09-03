@@ -11,3 +11,9 @@ Domingo foi um dia de muitos códigos em HTML, CSS e JS com o professor Roger
 
 ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
+
+<h3>Certificado de conclusão</h3>
+
+
+
+
