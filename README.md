@@ -14,8 +14,6 @@ Domingo foi um dia de muitos códigos em HTML, CSS e JS com o professor Roger
 
 <h3>Certificado de conclusão</h3>
 
-`git init`
-
 
 
 
